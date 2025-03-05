@@ -23,8 +23,6 @@
 - Git, GitHub, VS Code, PyCharm, IntelliJ IDEA
 ---
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,aftereffects,premiere,figma,)](https://skillicons.dev)
-- Git, GitHub, VS Code, PyCharm, IntelliJ IDEA
-
 
 ------
 ## ✨ About Me:
